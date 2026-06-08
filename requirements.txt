@@ -1,0 +1,6 @@
+streamlit
+torch==2.0.1
+sentence-transformers==2.2.2
+tensorflow==2.15.0
+keras==2.15.0
+numpy<2.0.0
